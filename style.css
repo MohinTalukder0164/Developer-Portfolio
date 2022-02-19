@@ -10,8 +10,7 @@ h1{
 }
 section{
     display: flex;
-    background-image: url(website-img/top-banner.png);
-    background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 .div-tag{
     width: 50%;
@@ -27,4 +26,16 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;  
+}
+.tob-banner{
+    background-image: url(website-img/top-banner.png);
+    background-repeat: no-repeat; 
+}
+.dream-part{
+    background-image: url(website-img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.name-color-1{
+    color: crimson;
 }
